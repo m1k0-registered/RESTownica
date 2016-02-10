@@ -1,0 +1,8 @@
+m1k0@lapek ~/Programy/wildfly-10.0.0.Final/bin $ ./add-user.sh
+
+m1k0@lapek ~/Programy/wildfly-10.0.0.Final/bin $ ./jboss-cli.sh
+module add --name=org.postgresql.jdbc --resources=/usr/share/jdbc-postgresql/lib/jdbc-postgresql.jar --dependencies=javax.api,javax.transaction.api
+/subsystem=datasources/jdbc-driver=postgresql/:add(driver-name=postgresql, driver-module-name=org.postgresql.jdbc, driver-xa-datasource-class-name=org.postgresql.xa.PGXADataSource)
+exit
+
+m1k0@lapek ~/Programy/wildfly-10.0.0.Final/bin $ ./standalone.sh -c standalone-full.xml --debug 8787
