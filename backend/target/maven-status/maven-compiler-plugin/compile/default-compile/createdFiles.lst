@@ -1,0 +1,11 @@
+com/github/m1k0registered/restownica/zaplecze/dd/Zabawka_.class
+com/github/m1k0registered/restownica/zaplecze/service/ZabawkaFacadeREST.class
+com/github/m1k0registered/restownica/zaplecze/dd/Dziecko.class
+com/github/m1k0registered/restownica/zaplecze/dd/Piaskownica_.class
+com/github/m1k0registered/restownica/zaplecze/service/ApplicationConfig.class
+com/github/m1k0registered/restownica/zaplecze/service/PiaskownicaFacadeREST.class
+com/github/m1k0registered/restownica/zaplecze/dd/Piaskownica.class
+com/github/m1k0registered/restownica/zaplecze/dd/Zabawka.class
+com/github/m1k0registered/restownica/zaplecze/service/DzieckoFacadeREST.class
+com/github/m1k0registered/restownica/zaplecze/dd/Dziecko_.class
+com/github/m1k0registered/restownica/zaplecze/service/AbstractFacade.class

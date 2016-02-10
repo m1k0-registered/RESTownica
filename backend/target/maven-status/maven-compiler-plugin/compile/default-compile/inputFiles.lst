@@ -1,0 +1,9 @@
+/home/m1k0/Projekty/repo/github.com/m1k0-registered/RESTownica/RESTownica/backend/src/main/java/com/github/m1k0registered/restownica/zaplecze/dd/Dziecko.java
+/home/m1k0/Projekty/repo/github.com/m1k0-registered/RESTownica/RESTownica/backend/src/main/java/com/github/m1k0registered/restownica/zaplecze/service/ApplicationConfig.java
+/home/m1k0/Projekty/repo/github.com/m1k0-registered/RESTownica/RESTownica/backend/src/main/java/com/github/m1k0registered/restownica/zaplecze/dd/Piaskownica.java
+/home/m1k0/Projekty/repo/github.com/m1k0-registered/RESTownica/RESTownica/backend/src/main/java/com/github/m1k0registered/restownica/zaplecze/service/DzieckoFacadeREST.java
+/home/m1k0/Projekty/repo/github.com/m1k0-registered/RESTownica/RESTownica/backend/src/main/java/com/github/m1k0registered/restownica/zaplecze/service/NewCrossOriginResourceSharingFilter.java
+/home/m1k0/Projekty/repo/github.com/m1k0-registered/RESTownica/RESTownica/backend/src/main/java/com/github/m1k0registered/restownica/zaplecze/dd/Zabawka.java
+/home/m1k0/Projekty/repo/github.com/m1k0-registered/RESTownica/RESTownica/backend/src/main/java/com/github/m1k0registered/restownica/zaplecze/service/PiaskownicaFacadeREST.java
+/home/m1k0/Projekty/repo/github.com/m1k0-registered/RESTownica/RESTownica/backend/src/main/java/com/github/m1k0registered/restownica/zaplecze/service/ZabawkaFacadeREST.java
+/home/m1k0/Projekty/repo/github.com/m1k0-registered/RESTownica/RESTownica/backend/src/main/java/com/github/m1k0registered/restownica/zaplecze/service/AbstractFacade.java

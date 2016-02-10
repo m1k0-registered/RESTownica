@@ -1,0 +1,17 @@
+<p>Filtrowana: <input type="text" ng-model="filtrowana"/>  </p>
+<p>Wybrana: {{selected}}</p>
+
+  <table border="1">
+    <tr>
+      <th>Id</th>
+      <th>Nazwa</th>
+    </tr>
+    <tr ng-repeat="jednaPiaskownica in wszystkiePiaskownice | filter:filtrowana" 
+        ng-click="showSelectedElements(jednaPiaskownica)"
+        ng-class-even="'even'" 
+        ng-class-odd="'odd'">
+      <td>{{jednaPiaskownica.id}}</td>
+      <td>{{jednaPiaskownica.nazwa}}</td>
+    </tr>
+  </table>
+  
